@@ -79,6 +79,40 @@ VS CODE
 ![image](https://github.com/SushantVij/MICROSOFT_FRT-FINAL_PROJECT/assets/116457738/d278f17c-ed18-48c9-a89e-1d40bfe0dcd0)
 
 # About Us page
+![image](https://github.com/SushantVij/MICROSOFT_FRT-FINAL_PROJECT/assets/116457738/eb4f3742-22e4-4c7f-b9cd-a3d260fff401)
+![image](https://github.com/SushantVij/MICROSOFT_FRT-FINAL_PROJECT/assets/116457738/cf03f947-e66a-4b7c-b87f-b89d27fb6351)
+![image](https://github.com/SushantVij/MICROSOFT_FRT-FINAL_PROJECT/assets/116457738/26077c73-a060-44d8-a8c9-0db3223cd12c)
+![image](https://github.com/SushantVij/MICROSOFT_FRT-FINAL_PROJECT/assets/116457738/e2f17300-163a-4f44-b20e-8ca597d161e9)
+
+# Services Page
+![image](https://github.com/SushantVij/MICROSOFT_FRT-FINAL_PROJECT/assets/116457738/bc65554c-4291-4733-b4e3-d652855d49a0)
+![image](https://github.com/SushantVij/MICROSOFT_FRT-FINAL_PROJECT/assets/116457738/c48adbc3-33d4-4f36-b593-7588d5e7eb97)
+![image](https://github.com/SushantVij/MICROSOFT_FRT-FINAL_PROJECT/assets/116457738/496e01b5-0d16-4534-b2c1-9afd09fbeb27)
+![image](https://github.com/SushantVij/MICROSOFT_FRT-FINAL_PROJECT/assets/116457738/11544d8c-1256-41ee-947d-1aaac4eb5985)
+
+# Gallary Page
+![image](https://github.com/SushantVij/MICROSOFT_FRT-FINAL_PROJECT/assets/116457738/2f563f3c-1035-449e-95ff-6acc92ce4dde)
+
+# Contact Page
+![image](https://github.com/SushantVij/MICROSOFT_FRT-FINAL_PROJECT/assets/116457738/5eae1bf9-fd59-4e26-bff8-18a7cd28c758)
+
+# Maps
+![image](https://github.com/SushantVij/MICROSOFT_FRT-FINAL_PROJECT/assets/116457738/27fc6b76-3580-452a-8ed1-851eed79963b)
+
+# Footer
+![image](https://github.com/SushantVij/MICROSOFT_FRT-FINAL_PROJECT/assets/116457738/d7009823-acfc-4955-8139-cc66fdc4f570)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
